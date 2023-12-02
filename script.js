@@ -59,7 +59,7 @@ const jump = () => {
         mario.classList.remove('jump');
     }, 1500); 
 }
-document.addEventListener('click', jump);
+
 document.addEventListener('keydown', jump);
 
 
