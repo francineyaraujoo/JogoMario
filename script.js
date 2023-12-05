@@ -46,7 +46,7 @@ const start = () => {
 }
 
 document.addEventListener('keydown', start);
-
+document.addEventListener('click', start);
 
 /*================ Função Pulo ===================*/ 
 
