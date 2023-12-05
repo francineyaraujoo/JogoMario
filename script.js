@@ -61,6 +61,7 @@ const jump = () => {
 }
 
 document.addEventListener('keydown', jump);
+document.addEventListener('click', jump);
 
 
 /*================ Código para acabar o jogo ===================*/ 
