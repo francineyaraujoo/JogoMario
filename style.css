@@ -248,3 +248,7 @@ p {
     text-align: center;
     color: black;
 }
+
+footer > img {
+    text-align: center;
+}
