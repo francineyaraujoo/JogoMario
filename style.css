@@ -249,7 +249,12 @@ p {
     color: black;
 }
 
-.img-logo {
-    text-align: center;
-    width: 6%;
+.logo-senac {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo-senac img {
+    width: 7%;
 }
