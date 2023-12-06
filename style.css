@@ -249,7 +249,7 @@ p {
     color: black;
 }
 
-.img-logo > img {
+.img-logo {
     text-align: center;
     width: 6%;
 }
